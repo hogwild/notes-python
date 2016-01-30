@@ -186,7 +186,9 @@ conda update anaconda
 	 - [09.12 Theano 随机数流变量](09. theano/09.12 random streams.ipynb)
 	 - [09.13 Theano 实例：更复杂的网络](09. theano/09.13 modern net on mnist.ipynb)
 	 - [09.14 Theano 实例：卷积神经网络](09. theano/09.14 convolutional net on mnist.ipynb)
-	 - [09.15 Theano tensor 模块](09. theano/09.15 tensor module.ipynb)
+	 - [09.15 Theano tensor 模块：基础](09. theano/09.15 tensor module basics.ipynb)
+	 - [09.16 Theano tensor 模块：索引](09. theano/09.16 tensor module indexing.ipynb)
+	 - [09.17 Theano tensor 模块：操作符和逐元素操作](09. theano/09.17 operator and elementwise operations.ipynb)
 - [10. **有趣的第三方模块**](10. something interesting)
 	 - [10.01 使用 basemap 画地图](10. something interesting/10.01 maps using basemap.ipynb)
 	 - [10.02 使用 cartopy 画地图](10. something interesting/10.02 maps using cartopy.ipynb)
@@ -197,3 +199,4 @@ conda update anaconda
 	 - [11.04 glob 模块：文件模式匹配](11. useful tools/11.04 glob.ipynb)
 	 - [11.05 shutil 模块：高级文件操作](11. useful tools/11.05 shutil.ipynb)
 	 - [11.06 gzip, zipfile, tarfile 模块：处理压缩文件](11. useful tools/11.06 gzip, zipfile, tarfile.ipynb)
+
