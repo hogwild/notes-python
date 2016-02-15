@@ -192,11 +192,11 @@ conda update anaconda
 - [10. **有趣的第三方模块**](10. something interesting)
 	 - [10.01 使用 basemap 画地图](10. something interesting/10.01 maps using basemap.ipynb)
 	 - [10.02 使用 cartopy 画地图](10. something interesting/10.02 maps using cartopy.ipynb)
+	 - [10.03 探索 NBA 数据](10. something interesting/10.03 nba data.ipynb)
 - [11. **有用的工具**](11. useful tools)
 	 - [11.01 pprint 模块：打印 Python 对象](11. useful tools/11.01 pprint.ipynb)
-	 - [11.02 pickle, cPickle 模块：序列化 Python 对象](11. useful tools/11.02 pickle and cpickle.ipynb)
+	 - [11.02 pickle, cPickle 模块：序列化 Python 对象](11. useful tools/11.02 pickle and cPickle.ipynb)
 	 - [11.03 json 模块：处理 JSON 数据](11. useful tools/11.03 json.ipynb)
 	 - [11.04 glob 模块：文件模式匹配](11. useful tools/11.04 glob.ipynb)
 	 - [11.05 shutil 模块：高级文件操作](11. useful tools/11.05 shutil.ipynb)
 	 - [11.06 gzip, zipfile, tarfile 模块：处理压缩文件](11. useful tools/11.06 gzip, zipfile, tarfile.ipynb)
-
