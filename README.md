@@ -203,5 +203,7 @@ conda update anaconda
 	 - [11.04 glob 模块：文件模式匹配](11. useful tools/11.04 glob.ipynb)
 	 - [11.05 shutil 模块：高级文件操作](11. useful tools/11.05 shutil.ipynb)
 	 - [11.06 gzip, zipfile, tarfile 模块：处理压缩文件](11. useful tools/11.06 gzip, zipfile, tarfile.ipynb)
+	 - [11.07 logging 模块：记录日志](11. useful tools/11.07 logging.ipynb)
+	 - [11.08 string 模块：字符串处理](11. useful tools/11.08 string.ipynb)
 - [12. **Pandas**](12. pandas)
-	 - [12.01 十分钟上手 Pandas (1)](12. pandas/12.01 ten minutes to pandas.ipynb)
+	 - [12.01 十分钟上手 Pandas](12. pandas/12.01 ten minutes to pandas.ipynb)
