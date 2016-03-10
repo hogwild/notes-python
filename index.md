@@ -148,3 +148,5 @@
 	 - [11.10 requests 模块：HTTP for Human](11. useful tools/11.10 requests.ipynb)
 - [12. **Pandas**](12. pandas)
 	 - [12.01 十分钟上手 Pandas](12. pandas/12.01 ten minutes to pandas.ipynb)
+	 - [12.02 一维数据结构：Series](12. pandas/12.02 series in pandas.ipynb)
+	 - [12.03 二维数据结构：DataFrame](12. pandas/12.03 dataframe in pandas.ipynb)
