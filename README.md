@@ -14,7 +14,7 @@
 
 默认安装了 `Python 2.7`，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。
 
-> life is short. use python.
+> life is short. You need python.
 
 推荐使用 [Anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
 
@@ -26,7 +26,7 @@
 $ ipython notebook
 ```
 来进入 `ipython notebook`。
-
+life is shor, use Python
 ----
 
 ## 基本环境配置
